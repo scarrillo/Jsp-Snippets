@@ -22,6 +22,11 @@ Jsp and Tiles snippet for Sublime Text
     c:choose
      
     tiles:use
+        Use Attribute
+        
     tiles:attr
+        Insert Attribute
+        
     tiles:def
+        Insert Definition
 
