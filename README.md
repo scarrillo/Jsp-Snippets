@@ -13,4 +13,15 @@ Jsp and Tiles snippet for Sublime Text
     Clone:
         git clone git@github.com:scarrillo/Jsp-Snippets.git Jsp
 
-  
+
+##### Triggers:
+
+    c:for
+    c:set
+    c:catch
+    c:choose
+     
+    tiles:use
+    tiles:attr
+    tiles:def
+
