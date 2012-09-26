@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<c:catch var="${1:\$\{error\}}">
+</c:catch>]]></content>
+	<tabTrigger>c:catch</tabTrigger>
+	<scope>text.html.jsp</scope>
+	<description>JSP/JSTL catch</description>
+</snippet>

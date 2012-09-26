@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+	<tiles:insertAttribute name="${1:attr.name}" ignore="${2:true}" />]]></content>
+	<tabTrigger>tiles:attr</tabTrigger>
+	<scope>text.html.jsp</scope>
+	<description>JSP/JSTL tiles insertAttribute</description>
+</snippet>

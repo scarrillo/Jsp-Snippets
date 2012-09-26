@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+	<tiles:insertDefinition name="${1:tile.name}">
+		<tiles:putAttribute name="${2:tile.attr}" value="${3:tile.value}" />
+	</tiles:insertDefinition>]]></content>
+	<tabTrigger>tiles:def</tabTrigger>
+	<scope>text.html.jsp</scope>
+	<description>JSP/JSTL tiles insertDefinition</description>
+</snippet>

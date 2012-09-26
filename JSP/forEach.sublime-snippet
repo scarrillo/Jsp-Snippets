@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<c:forEach var="item" items="${1:\$\{items\}}" varStatus="status" begin='0' end='${2:\$\{fn:length(items)\}}' step='1'>
+	<c:out value="status.index" />
+</c:forEach>]]></content>
+	<tabTrigger>c:for</tabTrigger>
+	<scope>text.html.jsp</scope>
+	<description>JSP/JSTL forEach</description>
+</snippet>

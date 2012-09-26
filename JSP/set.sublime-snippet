@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+		<c:set var="${1:name}" value="${2:value}" />
+		<!-- <c:set var="${3:name}" value="${4:\$\{true ? 'yes' : 'no'\}}"/> -->]]></content>
+	<tabTrigger>c:set</tabTrigger>
+	<scope>text.html.jsp</scope>
+	<description>JSP/JSTL set</description>
+</snippet>
