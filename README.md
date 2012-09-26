@@ -1,8 +1,8 @@
-Log4j-Sublime
-=============
 Jsp and Tiles snippet for Sublime Text
+=============
 
 ##### Setup:
+
     Install to:
       - OSX: /Users/_user_/Library/Application Support/Sublime Text 2/Packages/Jsp/
         
@@ -14,7 +14,7 @@ Jsp and Tiles snippet for Sublime Text
         git clone git@github.com:scarrillo/Jsp-Snippets.git Jsp
 
 
-##### Triggers:
+##### Tab Triggers:
 
     c:for
     c:set
@@ -22,6 +22,11 @@ Jsp and Tiles snippet for Sublime Text
     c:choose
      
     tiles:use
+        Use Attribute
+        
     tiles:attr
+        Insert Attribute
+        
     tiles:def
+        Insert Definition
 
