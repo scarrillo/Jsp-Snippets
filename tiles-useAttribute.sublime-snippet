@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-	<tiles:useAttribute var="${1:attrName}" name="${2:attr.name}" ignore="${3:true}" />
+	<tiles:useAttribute id="${1:attrName}" name="${2:attr.name}" ignore="${3:true}" />
 	Attribute: ${4:\$\{attrName\}}]]></content>
 	<tabTrigger>tiles:use</tabTrigger>
 	<scope>text.html.jsp</scope>
