@@ -1,6 +1,5 @@
-Log4j-Sublime
-=============
 Jsp and Tiles snippet for Sublime Text
+=============
 
 ##### Setup:
     Install to:
