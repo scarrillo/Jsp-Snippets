@@ -11,7 +11,7 @@ Jsp and Tiles snippet for Sublime Text
     - or -
 
     Clone:
-        git clone git@github.com:scarrillo/Jsp-Snippets.git Jsp
+        git clone git://github.com/scarrillo/Jsp-Snippets.git Jsp
 
 
 ##### Tab Triggers:
