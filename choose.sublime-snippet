@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 <c:choose>
-	<c:when test="${1:\$\{expression\}}"></c:when>
+	<c:when test="\$\{${1:expression}\}"></c:when>
 	<c:otherwise></c:otherwise>
 </c:choose>]]></content>
 	<tabTrigger>c:choose</tabTrigger>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+	<tiles:insertDefinition name="utils.error">
+		<tiles:putAttribute name="error.location" value="${1:location}" />
+		<tiles:putAttribute name="error.message" value="${2:\$\{error\}}" />
+	</tiles:insertDefinition>]]></content>
+	<tabTrigger>tiles:error</tabTrigger>
+	<scope>text.html.jsp</scope>
+	<description>JSP/JSTL tiles insertDefinition</description>
+</snippet>
