@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<c:if var="\$\{${1:condition}\}">
+<c:if test="\$\{${1:condition}\}">
 </c:if>]]></content>
 	<tabTrigger>c:if</tabTrigger>
 	<scope>text.html.jsp</scope>
